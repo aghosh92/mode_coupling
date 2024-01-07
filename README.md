@@ -6,6 +6,7 @@ This repository shows an example implementation of hypothesis-driven active lear
 If you find our contributions useful, please consider citing our following works:
 
 https://pubs.acs.org/doi/10.1021/acs.chemmater.2c00217
+
 @article{cationorderingghosh,
   title={Insights into cation ordering of double perovskite oxides from machine learning and causal relations},
   author={Ghosh, Ayana and Palanichamy, Gayathri and Trujillo, Dennis P and Shaikh, Monirul and Ghosh, Saurabh},
@@ -17,6 +18,7 @@ https://pubs.acs.org/doi/10.1021/acs.chemmater.2c00217
   publisher={ACS Publications}
 }
 https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00108
+
 @article{switchingghosh,
   title={Switching of Hybrid Improper Ferroelectricity in Oxide Double Perovskites},
   author={Gayathri, Palanichamy and Swamynathan, MJ and Shaikh, Monirul and Ghosh, Ayana and Ghosh, Saurabh},
@@ -28,6 +30,7 @@ https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c00108
   publisher={ACS Publications}
 }
 https://pubs.rsc.org/en/content/articlehtml/2023/mh/d3mh01285a
+
 @article{superlatticesghosh,
   title={Design of high polarization low switching barrier hybrid improper ferroelectric perovskite oxide superlattices},
   author={Swamynadhan, MJ and Ghosh, Ayana and Ghosh, Saurabh},
